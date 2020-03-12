@@ -1,0 +1,69 @@
+header
+{
+   background-image:url(images/photo-1483985988355-763728e1935b.jfif);
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 700px;
+    color: red;
+    border: 2px solid black;
+}
+body
+{
+    background-color: maroon;
+    padding: none;
+}
+h1
+{
+   color: maroon;
+    text-decoration: underline
+    
+}
+nav
+{
+    background-color: #000000;
+    padding: 3px;
+    position:inherit;
+}
+nav ul li
+{
+    list-style-type: none;
+    background-color: #A9A9A9;
+    color: white;
+    display: inline-block;
+    padding: 15px;
+    margin: 5px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+main
+{
+    
+    bottom: 20px;
+    left: 20px;
+    color:mistyrose;
+    tab-size: 4px;
+    border: 4px;
+    
+}
+h2
+{
+    text-align: center;
+    color:lightpink;
+}
+footer {
+background-color: darkgray
+    
+    
+    
+}
+
+#copyright {
+    color:maroon;
+    text-align: center;
+    
+}
